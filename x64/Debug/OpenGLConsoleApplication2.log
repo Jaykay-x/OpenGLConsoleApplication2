@@ -1,0 +1,29 @@
+﻿  Shader_Loader.cpp
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(9): error C2523: 'Core::Shader_Loader::~Shader_Loader（void': destructor tag mismatch
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(9): error C2059: syntax error: ')'
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(9): error C2761: 'Core::Shader_Loader::~Shader_Loader(void)': member function redeclaration not allowed
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(11): error C2059: syntax error: 'std::string'
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(12): error C2143: syntax error: missing ';' before '{'
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(12): error C2447: '{': missing function header (old-style formal list?)
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(33): error C2065: 'CLuint': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(33): error C2146: syntax error: missing ';' before identifier 'shader'
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(33): error C2065: 'shader': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(35): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(37): error C2065: 'shader': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(38): error C2065: 'shader': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(39): error C2065: 'shader': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(39): error C2065: 'GL_COMILE_STATUS': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(45): error C2065: 'shader': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(47): error C2065: 'shader': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(51): error C2065: 'shader': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(54): error C2039: 'CreateProgram': is not a member of 'Core::Shader_Loader'
+  h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.h(9): note: see declaration of 'Core::Shader_Loader'
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(57): error C3861: 'ReadShader': identifier not found
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(58): error C3861: 'ReadShader': identifier not found
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(60): error C2065: 'vertex_shader_code': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(60): error C3861: 'CreateShader': identifier not found
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(61): error C3861: 'CreateShader': identifier not found
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(71): error C2065: 'program_log': undeclared identifier
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(71): error C2198: 'PFNGLGETPROGRAMINFOLOGPROC': too few arguments for call
+h:\documents\github\opengl\setupgl_vs2015\openglconsoleapplication2\core\shader_loader.cpp(72): error C2065: 'program_log': undeclared identifier
